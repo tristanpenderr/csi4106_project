@@ -1,0 +1,9 @@
+Main Data
+https://www.kaggle.com/datasets/sagarnildass/worldbank-economicsdemographics-data
+
+GDP 2020 (just for Japan and United Arab Emirates)
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JP
+
+GDP Growth 2020 (just for Japan and United Arab Emirates)
+https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=JP
+
